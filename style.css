@@ -1,0 +1,63 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 100px;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    color: darkgreen;
+    background-color:aqua;
+    width: 500px;
+    height: 20px;
+}
+a{
+    font-size: 20px;
+     color: brown;
+}
+a:hover{
+    color: darkblue;
+}
+img{
+    width:300px;
+    height:300px;
+    border: darkred 2px;
+    border-radius: 15px;
+    border-color: red;
+    box-shadow: 3px 4px 6px blue;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+marquee{
+    font-size: 25px;
+    color: red;
+}
+
+ul{
+    font-size: 30px;
+    color: darkmagenta;
+}
+ol{
+    font-size: 25px;
+    color: navy;
+}
+hr{
+    color: indigo;
+}
+.data{
+    display:flex;
+    justify-content: space-around;
+}
+.video{
+    position: relative;
+    top:40px;
+}
+.rank{
+    width:1500px;
+    height: 250px;
+}
